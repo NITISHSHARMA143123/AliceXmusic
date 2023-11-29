@@ -1,7 +1,7 @@
 {
-    "name": "Stranger Music Bot",
+    "name": "𝐀𝐥𝐢𝐜𝐞 ✘ 𝐌𝐮𝐬𝐢𝐜 ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://graph.org/file/d3fe3c288fdb37a70ca09.jpg",
+    "logo": "https://telegra.ph/file/2813c3d6b2a4f8682c565.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -70,12 +70,22 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/sparrow9616/StrangerMusicBot",
+        "value": "https://github.com/NITISHSHARMA143123/AliceXmusic",
         "required": true
       },
+      "SUPPORT_CHANNEL": {
+        "description": "DALNA HO DAL NHI DALNA TOH GAND MARVA",
+        "value": "https://t.me/Lily_x_Bots",
+        "required": false
+      },  
+        "SUPPORT_GROUP": {
+        "description": "DALNA HO DAL NHI DALNA TOH GAND MARVA",
+        "value": "https://t.me/Lily_Support_Chat",
+        "required": false 
+        },   
       "UPSTREAM_BRANCH": {
         "description": "Upstream Repo's Branch Name",
-        "value": "master",
+        "value": "main",
         "required": true
       }
     },
