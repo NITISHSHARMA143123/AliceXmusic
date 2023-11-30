@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/2813c3d6b2a4f8682c565.jpg" align="right" width="400" height="650"/>
+<img src="https://telegra.ph/file/2813c3d6b2a4f8682c565.jpg" align="right" width="600" height="650"/>
 
 
 # 𝐀𝐥𝐢𝐜𝐞 ✘ 𝐌𝐮𝐬𝐢𝐜
