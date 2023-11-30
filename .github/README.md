@@ -1,8 +1,7 @@
 <img src="https://telegra.ph/file/2813c3d6b2a4f8682c565.jpg" align="right" width="600" height="800"/>
 
 
-# 𝐀𝐥𝐢𝐜𝐞 ✘ 𝐌𝐮𝐬𝐢𝐜<img src="https://img.shields.io/github/v/release/NITISHSHARMA143123/AliceXmusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
-
+# 𝐀𝐥𝐢𝐜𝐞 ✘ 𝐌𝐮𝐬𝐢𝐜
 
 [𝐀𝐥𝐢𝐜𝐞 ✘ 𝐌𝐮𝐬𝐢𝐜](https://github.com/NITISHSHARMA143123/AliceXmusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
